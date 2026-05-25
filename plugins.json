@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/Eclipsia-Vault/cloudstream-cf/builds/Cinefreak.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "Cinefreak",
+        "internalName": "Cinefreak",
+        "authors": [
+            "eclipsia"
+        ],
+        "description": "Bangla,Hindi Movies & Series",
+        "fileSize": 65634,
+        "repositoryUrl": "https://github.com/Eclipsia-Vault/cloudstream-cf",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://git.nixnet.services/eclipsia/eclipsia-cloudstream/raw/branch/main/icons/cf.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-bd3fea474136eefc46ee37085b3efc830d52037158ba3e437925dbd5610e78b2",
+        "jarFileSize": 286721,
+        "jarUrl": "https://raw.githubusercontent.com/Eclipsia-Vault/cloudstream-cf/builds/Cinefreak.jar",
+        "jarHash": "sha256-838ff8b5344300b4da475c0958dd96d7cdce63d7c5d67e78f7301fe1f96d3343"
+    }
+]
