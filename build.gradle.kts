@@ -57,7 +57,7 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/eclipsia-404/cloudstream-cf")
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/Eclipsia-Vault/cloudstream-cf")
         authors = listOf("eclipsia")
     }
 
