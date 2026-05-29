@@ -5,7 +5,6 @@ import com.lagradost.cloudstream3.plugins.BasePlugin
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.app
 
-
 @CloudstreamPlugin
 class CinefreakPlugin: BasePlugin() {
     override fun load() {
